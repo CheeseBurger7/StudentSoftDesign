@@ -7,7 +7,7 @@ package com.sheridan.studentsoftdesign;
 
 /**
  *
- * @author meetr
+ * @author meetr -- May 2020
  */
 public class Student {
     
